@@ -1,5 +1,5 @@
 // TODO: write your code here
-import findBy from './func';
+import findBy from './findBy';
 
 console.log('worked');
 const finder = findBy('name', 'урон');

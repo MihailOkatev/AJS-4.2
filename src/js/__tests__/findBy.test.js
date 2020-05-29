@@ -1,4 +1,4 @@
-import findBy from '../func';
+import findBy from '../findBy';
 
 test('Есть и поле, и значение, все работает корректно', () => {
   const finder = findBy('name', 'урон');
